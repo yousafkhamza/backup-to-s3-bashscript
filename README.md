@@ -3,7 +3,7 @@
 
 ---
 ## Description
-Here it's a bash script that needs to use this script simply create a directory backup and moved that compressed backup file to a configured S3 bucket with the help of bash script and AWS IAM User with S3 full access. I have added a new feature the script will suitable for ubuntu/redhat repository and the script will installed the depandancies as itself. So, let's roll down.
+Here it's a bash script that needs to use this script simply create a directory backup and moved that compressed backup file to a configured S3 bucket with the help of bash script and AWS IAM User with S3 full access. I have added a new feature the script will be suitable for the ubuntu/RedHat repository and the script will install the dependencies as itself. So, let's roll down
 
 ----
 ## Feature
